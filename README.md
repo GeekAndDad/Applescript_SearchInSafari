@@ -20,5 +20,5 @@ Alternatively, or in addition, setup Alfred or similar with a hot key to invoke 
 # License
 
 Copyright © 2022 Geek & Dad, LLC
-All rights Reserved
+All rights Reserved. 
 Free to use for Personal, Non-Commercial use.
